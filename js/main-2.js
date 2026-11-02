@@ -31,3 +31,5 @@ for (i = 1; i <= cantidadDeGatos; i++) {
         + i + ': 🐈'
         + patitas);
 }
+
+
